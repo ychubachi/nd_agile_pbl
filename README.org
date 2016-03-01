@@ -1,1 +1,2 @@
-�X���C�h������[[https://github.com/ychubachi/nd_agile_pbl/raw/master/NTT%E3%83%87%E3%83%BC%E3%82%BF%E7%A0%94%E4%BF%AE%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8.zip][������]]����_�E�����[�h�ł��܂��B
+- 研修1日目のスライド資料は[[https://github.com/ychubachi/nd_agile_pbl/raw/master/NTT%E3%83%87%E3%83%BC%E3%82%BF%E7%A0%94%E4%BF%AE%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8.zip][こちら]]からダウンロードできます。
+- 研修2日目は[[https://github.com/ychubachi/enpit/raw/master/slides/bizapp_training.pdf][こちら]]の資料を抜粋して使います。
